@@ -7,7 +7,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/src/seatmap_parser.py",
             "console": "integratedTerminal",
-            "args": ["seatmap1.xml"]
+            "args": ["seatmap2.xml"]
         }
     ]
 }

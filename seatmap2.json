@@ -1,0 +1,1911 @@
+{
+    "Rows": [
+        {
+            "RowNumber": 7,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "7A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "7B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "7C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "7D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "7E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "7F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 11,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "11A",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "11B",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "11C",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "11D",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "11E",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "11F",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "WING"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 12,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "12A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "12B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "12C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "12D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "12E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "12F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 13,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "13A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "13B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "13C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "13D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "13E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "13F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 35.4,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+                        "EXIT",
+                        "LEG_SPACE_SEAT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 14,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "14A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "14B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "14C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "14D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "14E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "14F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "WING"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 15,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "15A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "15B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "15C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "15D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "15E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "15F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "WING"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 8,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "8A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "8B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "8C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "8D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "8E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "8F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 9,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "9A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "9B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "9C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "9D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "9E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "9F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 10,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "10A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "10B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "10C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "10D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "10E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "10F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 22.1,
+                    "Extra Info": [
+                        "SEAT_IN_A_QUIET_ZONE",
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 22,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "22A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "22B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "22C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "22D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "22E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "22F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 23,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "23A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "23B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "23C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "23D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "23E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "23F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 16,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "16A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "16B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "16C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "16D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "16E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "16F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 17,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "17A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "17B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "17C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "17D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "17E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "17F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 18,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "18A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "18B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "18C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "18D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "18E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "18F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "WING"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 19,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "19A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "19B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "19C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "19D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "19E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "19F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 20,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "20A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "20B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "20C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "20D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "20E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "20F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 21,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "21A",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "21B",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "21C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "21D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "21E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "21F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 24,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "24A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "24B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "24C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "24D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "24E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "24F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 25,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "25A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "25B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "25C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "25D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "25E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "PREFERENTIAL_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "25F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+                        "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 26,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "26A",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "26B",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "PREFERENTIAL_SEAT",
+                        "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "26C",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "26D",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "26E",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "PREFERENTIAL_SEAT",
+                        "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "26F",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 17.7,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 27,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "27A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "27B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "27C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "27D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "27E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "27F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 28,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "28A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "28B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "28C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "28D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "28E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "28F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "REAR_FACING_SEAT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 29,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "29A",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "29B",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "29C",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "29D",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "29E",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "29F",
+                    "Cabin Class": "No Info",
+                    "Availability": true,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+                        "WINDOW",
+                        "REAR_FACING_SEAT"
+                    ]
+                }
+            ]
+        },
+        {
+            "RowNumber": 30,
+            "Seats": [
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "30A",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "WINDOW",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "30B",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "30C",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "SEAT_NOT_ALLOWED_FOR_INFANT",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+                        "RESTRICTED_SEAT_GENERAL",
+                        "RESTRICTED",
+                        "REAR_FACING_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "30D",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "AISLE_SEAT",
+                        "SEAT_NOT_SUITABLE_FOR_CHILD",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "REAR_FACING_SEAT",
+                        "CREW_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "30E",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "RESTRICTED_RECLINE_SEAT",
+                        "REAR_FACING_SEAT",
+                        "CREW_SEAT"
+                    ]
+                },
+                {
+                    "Element Type": "Seat",
+                    "Seat Id": "30F",
+                    "Cabin Class": "No Info",
+                    "Availability": false,
+                    "Price": 11.5,
+                    "Extra Info": [
+                        "WINDOW",
+                        "RESTRICTED_RECLINE_SEAT",
+                        "REAR_FACING_SEAT",
+                        "CREW_SEAT"
+                    ]
+                }
+            ]
+        }
+    ]
+}

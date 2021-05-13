@@ -26,13 +26,14 @@ class Row():
         return {'RowNumber' : self.row_number, 'Seats' : self._seats}
 
 class Seat():
-    def __init__(self,element_type,_id,availability,cabin_type,is_preferred=False,price=None):
+    def __init__(self,element_type,_id,availability,cabin_type,is_preferred=False,price=None,extras=None):
         self._element_type = element_type
         self._id = _id
         self._availability = availability
         self._cabin_type = cabin_type
         self._is_preferred = is_preferred
         self._price = price
+        self._extras = extras
 
     def get_json(self):
         data = {
@@ -42,14 +43,29 @@ class Seat():
                 'Availability': self._availability,
             }
 
-        if self._price and self._is_preferred:
-            data.update({'IsPreferred' : self._is_preferred,'Price' : self._price})
+        if self._is_preferred:
+            data.update({'IsPreferred' : self._is_preferred})
         
+        if self._price:
+            data.update({'Price' : self._price})
+        
+        if self._extras:
+            data.update({'Extra Info' : self._extras})
+
         return data
 
 class XML_parser():
     
     def get_root(self,file):
+        ''' This function retrives de root of the tree from de xml
+            file, path change is needed for debugging in vscode.
+
+            Args:
+                filename : str
+
+            Returns: 
+                Root : Element
+        '''    
         try:
             tree = ET.parse(file)
         except:
@@ -106,9 +122,82 @@ class XML_parser():
         # print(rows)
         return {'Rows' : rows}
     
-    def parse_seatmap2(self,root):
-        return
+    def find_price(self,prices,_id):
+        for offer in prices:
+            if offer.get('OfferId') == _id:
+                return offer.get('Price')
 
+    def find_definitions(self,definition_list,defs):
+        def_texts = []
+        for d in definition_list:
+            if d.get('SeatDefID') in defs:
+                if not ('AVAILABLE' == d.get('SeatDefText') or 'OCCUPIED' == d.get('SeatDefText')):
+                    def_texts.append(d.get('SeatDefText'))
+        
+        return def_texts
+
+    def parse_seatmap2(self,root):
+        
+        #Every tag in the tree has this tag before the name
+        ns = root.tag.split('}')[0] + '}'
+
+        # Obtaining prices list for seats.
+        prices = root.findall(ns+'ALaCarteOffer')[0]
+        prices_list = [] 
+
+        for offer in prices:
+            offer_id = offer.attrib.get('OfferItemID')
+            for item in offer:
+                if 'UnitPriceDetail' in item.tag:
+                    for child in item.iter():
+                        if child.tag == ns+'SimpleCurrencyPrice':
+                            price = float(child.text)
+                            prices_list.append({'OfferId' : offer_id, 'Price' : price})
+
+        # Obtaining seat info.
+        extra_seat_info = root.findall(ns+'DataLists')[0].findall(ns+'SeatDefinitionList')[0]
+        definition_list = []
+
+        for info in extra_seat_info:
+            def_id = info.attrib.get('SeatDefinitionID')
+            for definition in info:
+                for desc in definition:
+                    def_text = desc.text
+                    definition_list.append({'SeatDefID' : def_id, 'SeatDefText' : def_text})
+
+        # Obtaining all seats.
+        row_list = []
+        seatmaps = root.findall(ns+'SeatMap')
+        for seatmap in seatmaps:
+            for item in seatmap:
+                if 'Cabin' in item.tag:
+                    # Found a Cabin definition.
+                    rows = item.findall(ns+'Row')
+                    for row in rows:
+                        row_number = int(row.findall(ns+'Number')[0].text)
+                        row_list.append(Row(row_number))
+                        for row_info in row:
+                            if 'Seat' in row_info.tag:
+                                column = row_info.findall(ns+'Column')[0].text
+                                def_ref = list()
+                                for seat in row_info:
+                                    if 'OfferItemRefs' in seat.tag:
+                                        offer_id = seat.text
+                                    if 'SeatDefinitionRef' in seat.tag:
+                                        def_ref.append(seat.text)
+
+                                seat_price = self.find_price(prices_list,offer_id)
+                                availability = 'SD4' in def_ref and not 'SD11' in def_ref
+
+                                extra_info = self.find_definitions(definition_list,def_ref)
+                                s = Seat('Seat',str(row_number)+column,availability,'No Info',price=seat_price,extras=extra_info) 
+                                
+                                row_index = self.find_index(row_list,row_number)
+                                row_list[row_index].add_seat(s.get_json())
+
+        rows = list(map(lambda r: r.get_json(),row_list))
+        return {'Rows' : rows}
+    
     def parse(self,file):
         filename = file.split('.')[0]
 
