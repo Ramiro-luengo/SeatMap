@@ -230,4 +230,3 @@ if __name__ == '__main__':
     if file:
         parser = XML_parser()
         parser.parse(file)
-
